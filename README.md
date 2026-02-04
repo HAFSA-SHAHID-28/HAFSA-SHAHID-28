@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a **1st-year Computer Science student**
+- 🎓 I'm a **2nd-year Computer Science student**
 - 🌐 I love **Web Development** and **UI/UX Design**
 - 🎨 Skilled in **Figma**, **Adobe Illustrator**, and other design tools
 - 🧠 Currently learning: `JavaScript` | `React.js` | `DSA`
@@ -32,7 +32,7 @@
 ### 📌 Featured Projects
 
 - 🧾 [Resume Template Clone](https://hafsa-shahid-28.github.io/Assignment-1/) – Recreated the Start Bootstrap Resume Template using only HTML & CSS  
-- 🎨 [Portfolio Website](https://hafsa-shahid-28.github.io/portfolio/) – Personal portfolio to showcase my work and skills  
+- 🎨 [Portfolio Website](https://hafsa-portfoolio.netlify.app/) – Personal portfolio to showcase my work and skills  
 - 💡 [Mini Hackathon Project](https://hafsa-shahid-28.github.io/mini_hackathon/) – A creative project built during a coding hackathon  
 
 ---
