@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hafsa Shahid</h1>
-<h3 align="center">A Computer Science Student | Web Developer | Graphic Designer</h3>
+<h3 align="center">Frontend-focused MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+building+beautiful+UIs;Learning+and+creating+every+day;Turning+ideas+into+reality" alt="Typing SVG" />
@@ -37,14 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafsashahid&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsashahid&layout=compact&theme=radical" alt="Top Languages" height="165">
-</p>
-
----
 
 ### 🤝 Let's Connect!
 
